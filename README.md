@@ -18,4 +18,12 @@ Use Homebrew to install install Open Kinect's [libfreenect](https://github.com/O
 ```
 brew install libfreenect
 ```
-Clone or download this repository (see the right hand sidebar on Github), open the sketch in Processing and press the run button in the top left hand corner.
+Clone or download this repository (see the right hand sidebar on Github) and open the sketch in Processing by double clicking on the file called Disintegration.pde.
+
+Install the Open Kinect and Box2d bindings for Processing by opening the libraries manager inside Processing.  Open the menu:
+```
+Sketch -> Import Library -> Add Library
+```
+Install "Box2D for Processing" and "Open Kinect for Processing".
+
+You should now be able to run the sketch using the run button in the top left of the Processing window.
