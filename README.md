@@ -11,7 +11,7 @@ Installation
 ------------
 To install on OSX, download and install Processing from [here](https://processing.org/download/).
 
-Then install Homebrew using the instructions [here](http://brew.sh/).
+Install Homebrew using the instructions [here](http://brew.sh/).
 
 Use Homebrew to install install Open Kinect's [libfreenect](https://github.com/OpenKinect/libfreenect).
 
