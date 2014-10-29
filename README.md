@@ -13,14 +13,14 @@ To install on OSX, download and install Processing from [here](https://processin
 
 Install Homebrew using the instructions [here](http://brew.sh/).
 
-Use Homebrew to install install Open Kinect's [libfreenect](https://github.com/OpenKinect/libfreenect).
+Use Homebrew to install Open Kinect's [libfreenect](https://github.com/OpenKinect/libfreenect).
 
 ```
 brew install libfreenect
 ```
 Clone or download this repository (see the right hand sidebar on Github) and open the sketch in Processing by double clicking on the file called Disintegration.pde.
 
-Install the Open Kinect and Box2d bindings for Processing by opening the libraries manager inside Processing.  Open the menu:
+Install the Open Kinect and Box2d bindings for Processing by opening the Libraries Manager.  Inside Processing, open the menu:
 ```
 Sketch -> Import Library -> Add Library
 ```
